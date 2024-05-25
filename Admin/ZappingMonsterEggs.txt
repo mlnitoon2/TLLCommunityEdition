@@ -20,7 +20,7 @@ Wubbox_rare Candy
 Monsters/Monster_toejammer_undof 1
 ;
 Wheezel Organs
-Monsters/Monster_handmond 1
+Monsters/Monster_koodahcane_rare 25
 ;
 Knurv Organs
 Monsters/Monster_handmond 1
