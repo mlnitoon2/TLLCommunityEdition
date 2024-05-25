@@ -4,7 +4,7 @@ Monsters/Monster_jeeode_young diamonds=1000 crystal 49500 20 coins=1@6@coins=150
 Monsters/Monster_yool_young diamonds=250 S1 49500 20 coins=1@6@coins=15000 Seasonal yool,yool_young 0 0
 Monsters/Monster_wubbox_young_new coins=7500000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wubbox_young 0 3
 
-Monsters/Monster_ElephantJabber coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
+Monsters/Monster_ElephantJabber coins=400 plant@earth@water@cold 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 
 toir coins=400 water@crystal@celestial 333 3 coins=1@120@coins=33 Natural toejammer,toejammer 0 0
 
