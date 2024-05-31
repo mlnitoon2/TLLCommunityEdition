@@ -175,6 +175,7 @@ Monsters/Monster_light coins=0
 Monsters/Monster_bone coins=0
 Monsters/Monster_psychic coins=0
 Monsters/Monster_faerie coins=0
+Monstersd/Monster_pentumbra diamonds=10000
 -
 decorations:
 Decoration/Decoration_test
