@@ -119,7 +119,7 @@ Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=
 Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Special percFrog,percFrog 100 5
 
 Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
-Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
+Monsters/Monster_reebro diamonds=2024 plasma@shadow@mech@poison 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
 
 Monsters/Monster_sox diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 Monsters/Monster_sox_meduza diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
